@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, i'm Renan 😀
 
-<!--
-**renanabade/renanabade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a software developer and Dark Souls fan!
 
-Here are some ideas to get you started:
+- 🌱  Improving at Java | Spring Boot | Angular 
+- 👯  Creating new solutions
+- 🥅  2023 Plans: Contributing to the developer comunnity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<div>
+  <a href="https://www.youtube.com/channel/UCIbZWctqSzDF4ELAqKsjFdw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/abadedev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/renanabade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+<img width="450em" alt="Status Github Renan" src="https://github-readme-stats.vercel.app/api?username=renanabade&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanabade&layout=compact&theme=dracula"/>
+<p></p>
+<img alt="dsgif" src="https://github.com/renanabade/skgael-gif/blob/main/gaelgif.gif"/>
+</div>
+
