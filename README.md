@@ -1,10 +1,10 @@
-### Hi, i'm Renan 😀
+### Hi, I'm Renan 😀
 
 ## I am a software developer and Dark Souls fan!
 
 - 🌱  Improving at Java | Spring Boot | Angular 
 - 👯  Creating new solutions
-- 🥅  2023 Plans: Contributing to the developer comunnity
+- 🥅  2023 Plans: Contributing to the developer community
 
 ### Connect with me:
 
