@@ -4,7 +4,7 @@
 
 - 🌱  Improving at Java | Spring Boot
 - 👯  Creating new solutions
-- 🥅  2023 Plans: Contributing to the developer community
+- 🥅  2024 Plans: Contributing to the developer community
 
 ### Connect with me:
 
