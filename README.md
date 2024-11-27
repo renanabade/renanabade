@@ -2,7 +2,7 @@
 
 ## I am a software developer and Dark Souls fan!
 
-- 🌱  Improving at Java | Spring Boot
+- 🌱  Improving at Node.js
 - 👯  Creating new solutions
 - 🥅  2024 Plans: Contributing to the developer community
 
