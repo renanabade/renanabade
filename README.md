@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>Renan</h2>
   <p><i>Back-end Developer</i></p>
 </div>
 
