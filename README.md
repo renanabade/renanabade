@@ -1,3 +1,5 @@
+<img align="right" width="280" alt="linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanabade&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e" />
+
 ### hello 👋
 
 helping people solve problems. <br>
